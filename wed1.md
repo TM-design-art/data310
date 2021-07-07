@@ -6,5 +6,6 @@
 -[New Image 1](NewImage1.md)
 
 ###New Image #2
+-[New Image 2](NewImage2.md)
 
 
