@@ -39,4 +39,8 @@ The argmax() function was used to infer what article of clothing an image corres
 Yes, the output from np.argmax() does match the label from my test_labels dataset.
 Due to np.argmax(predictions[1]) and test_labels[1] both equaling 2, this image has been correctly classified as a pullover.
 
+###Under the Verify predictions section, plot two additional images (other than either of the two given in the example script) and include the graph of their predicted label as well as the image itself.
 
+-[1st image](1stimage.md)
+
+-[2nd image]()
