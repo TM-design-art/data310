@@ -32,7 +32,8 @@ Additionally, the last value in this array represents the model's confidence tha
 
 ###How were the Softmax() and argmax() functions applied?
 
-
+The Softmax() function was used to calculate the probabilities of images corresponding to each of the different articles of clothing.
+The argmax() function was used to infer what article of clothing an image corresponds to based on the image having the highest probability of belonging in this class of clothing.
 
 ###Does the output from np.argmax() match the label from your test_labels dataset?
 Yes, the output from np.argmax() does match the label from my test_labels dataset.
