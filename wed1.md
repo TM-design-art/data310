@@ -25,4 +25,17 @@ array([7.1652730e-06, 5.0723611e-15, 9.9805683e-01, 7.4160178e-10,
 
 ###What does this array represent?
 
+This array represents the model's "confidence" that this image is correlated to 
+the t-shirt/top, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag, and ankle boot.
+For further clarification, the first value in this array represents the model's confidence that this image is a t-shirt/top.
+Additionally, the last value in this array represents the model's confidence that this image is an ankle boot.
+
+###How were the Softmax() and argmax() functions applied?
+
+
+
+###Does the output from np.argmax() match the label from your test_labels dataset?
+Yes, the output from np.argmax() does match the label from my test_labels dataset.
+Due to np.argmax(predictions[1]) and test_labels[1] both equaling 2, this image has been correctly classified as a pullover.
+
 
