@@ -9,7 +9,7 @@
 -[New Image 2](NewImage2.md)
 
 ###New Image #3
--[New Image 3]()
+-[New Image 3](NewImage3.md)
 
 ##Under the Make predictions section, present the array of predictions for an image from the test set other than the one given in the example script.
 
@@ -43,4 +43,4 @@ Due to np.argmax(predictions[1]) and test_labels[1] both equaling 2, this image 
 
 -[1st image](1stimage.md)
 
--[2nd image]()
+-[2nd image](2ndimage.md)
