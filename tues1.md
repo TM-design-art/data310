@@ -1,4 +1,4 @@
-### Responses for today
+### Responses for 7/6/21
 
 ### What is the shape of the images training set (how many and the dimension of each)?
 
