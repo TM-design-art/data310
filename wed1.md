@@ -64,6 +64,8 @@ predictions_single = probability_model.predict(img)
 
 -[Accuracy](accuracyofnumbers.md)
 
+-[Verify](verifypredicitons.md)
+
 ### Evaluate how your model for the MNIST dataset compared with your model of the Fashion_MNIST dataset. Which of the two models is more accurate? Why do you think this is so?
 
 
