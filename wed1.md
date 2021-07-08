@@ -48,3 +48,15 @@ Due to np.argmax(predictions[1]) and test_labels[1] both equaling 2, this image 
 ### Under the Use the trained model section, again select a new image from the test dataset. Produce the predictions for this newly selected image. Does the predicted value match the test label? Although you applied the argmax() function in this second instance, you did not use Softmax() a second time. Why is that so (please be specific)?
 
 -[Predictions](predictions1.md)
+
+The predicted value does match test label, because both values are 7. Based on this information, this image definitely consists of sneakers.
+
+Also, I did not use Softmax() a second time, because I am already referencing it
+through the predictions_single variable. To clarify, the predictions_single variable references the probability_model variable. Furthermore, the probability_model variable references the Softmax() function. 
+
+probability_model = tf.keras.Sequential([model, tf.keras.layers.Softmax()])
+
+predictions_single = probability_model.predict(img)
+
+
+
