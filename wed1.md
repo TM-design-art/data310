@@ -46,4 +46,5 @@ Due to np.argmax(predictions[1]) and test_labels[1] both equaling 2, this image 
 -[2nd image](2ndimage.md)
 
 ### Under the Use the trained model section, again select a new image from the test dataset. Produce the predictions for this newly selected image. Does the predicted value match the test label? Although you applied the argmax() function in this second instance, you did not use Softmax() a second time. Why is that so (please be specific)?
-![img_6.png](img_6.png)
+
+-[Predictions](predictions1.md)
