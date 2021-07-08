@@ -58,5 +58,12 @@ probability_model = tf.keras.Sequential([model, tf.keras.layers.Softmax()])
 
 predictions_single = probability_model.predict(img)
 
+### in order to switch the dataset from sets of clothing to hand written numbers. Produce a plot of 25 handwritten numbers from the data with their labels indicated below each image. Fit the model and report the accuracy of the training dataset. Likewise report the accuracy of the test dataset. As in the above example, from the Verify predictions section, plot two images and include the graph of their predicted label as well as the image itself.
+
+
+
+### Evaluate how your model for the MNIST dataset compared with your model of the Fashion_MNIST dataset. Which of the two models is more accurate? Why do you think this is so?
+
+
 
 
