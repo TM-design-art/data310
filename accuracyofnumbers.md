@@ -1,4 +1,4 @@
-###Accuracy values of training and testing datasets
+### Accuracy values of training and testing datasets
 
 After fitting the model by using model.fit(train_images, train_labels, epochs=10) and
 dividing the values by 255 to scale the values before processing them through the neural network model,

@@ -1,4 +1,4 @@
-#First Image
+# First Image
 i = 3
 
 plt.figure(figsize=(6,3))
@@ -15,7 +15,7 @@ plt.show()
 
 ![img_9.png](img_9.png)
 
-#Second Image
+# Second Image
 
 i = 5
 
