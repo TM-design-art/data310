@@ -68,6 +68,14 @@ predictions_single = probability_model.predict(img)
 
 ### Evaluate how your model for the MNIST dataset compared with your model of the Fashion_MNIST dataset. Which of the two models is more accurate? Why do you think this is so?
 
+My model for the MNIST dataset had a testing accuracy of 0.9790999889373779 and a training accuracy of 0.9973166584968567.
+For my model of the MNIST dataset, the difference between the values of accuracy is 0.01821666955.
+Also, my model for the Fashion_MNIST dataset had a testing accuracy of 0.8863000273704529 and a training accuracy of 0.918666660785675.
+For my model of the Fashion_MNIST dataset, the difference between the values of accuracy is 0.03236663341.
+My model for the MNIST dataset is more accurate, because it has a higher testing accuracy than the other model. 
+By having a higher testing accuracy, my model for the MNIST dataset is able to more accurately predict the numbers of handwritten numbers in new data.
+By having a lower testing accuracy, my model for the Fashion_MNIST dataset is less accurate in predicting articles of clothing in new data.
+Additionally, based on the differences between the values of accuracy, my model for the MNIST data set seems to be less overfit than my model for the Fashion_MNIST dataset.
 
 
 
