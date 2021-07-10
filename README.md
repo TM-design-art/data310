@@ -7,6 +7,8 @@
 
 -[Wednesdays Response](wed1.md)
 
+-[Thursdays Response]()
+
 -Module 2
 ## Projects
 
