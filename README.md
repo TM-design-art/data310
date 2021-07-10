@@ -7,7 +7,9 @@
 
 -[Wednesdays Response](wed1.md)
 
--[Thursdays Response]()
+-[Teams Thursdays Response](https://amanroa.github.io/data310/thurs1.html)
+
+-[My Individual Attempt at Thursdays Response](IndividualAttempt.md)
 
 -Module 2
 ## Projects
