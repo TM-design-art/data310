@@ -14,6 +14,6 @@
 -Module 2
 ## Projects
 
--Project 1
+-[Project 1](Project1.md)
 
 -Project 2
