@@ -32,6 +32,7 @@ For the second set of models, I used highway-mpg as target and num-of-cylinders,
 
 For the third set of models, I used highway-mpg as target and num-of-cylinders, engine-size, horsepower, curb-weight, num-of-doors, peak-rpm, bore, body style as the features. When using multi-class linear regression, the mean absolute error for this model was around 2.557662. When using multi-class DNN regression, the mean absolute error for this model was around 2.494790.
 
+
 ### Linear Model
 
 ![img_30.png](img_30.png)
