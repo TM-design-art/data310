@@ -17,6 +17,7 @@
 
 -[Tuesdays Response](Tuesday2.md)
 
+-[Thursdays Response](Thursday2.md)
 ## Projects
 
 -[Project 1](Project1.md)
