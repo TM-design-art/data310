@@ -24,7 +24,7 @@ Through these regularization techniques, the "Combined" regularization model is 
 
 An overfit model is a model that performs very well on the training data and poorly on new data. In addition, it is a kind of model that has higher internal validity and lower external validity. Internal validity is how accurate a model's predictions are on the data it was trained on. External validity is how accurate a model's predictions are on data it was not trained on or how well it generalizes to new data.
 Also, an overfit model is a type of model that has a higher accuracy on the training data and a lower accuracy on the testing data (or data that hasn't been seen before).
-An overfit model has to be addressed, because 
+An overfit model has to be addressed, because if a model manages to overcome its overfit nature, it will be able to do better on new data and generalize better.
 
 The four different ways we have addressed an overfit model thus far involve getting more training data, reducing the capacity of the network, adding weight regularization, and adding dropout. 
 
