@@ -24,6 +24,8 @@ Through these regularization techniques, the "Combined" regularization model is 
 
 
 
+The four different ways we have addressed an overfit model thus far involve getting more training data, reducing the capacity of the network, adding weight regularization, and adding dropout. 
+
 ### In this exercise you manually applied a 3x3 array as a filter to an image of two people ascending an outdoor staircase. Modify the existing filter and if needed the associated weight in order to apply your new filters to the image 3 times.
 
 ### Plot each result, upload them to your response, and describe how each filter transformed the existing image as it convolved through the original array and reduced the object size. 
