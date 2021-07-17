@@ -10,7 +10,7 @@ The Higgs Dataset is used as a classification problem that focuses on distinguis
 
 In the tiny model, both the validation metric and the training metric are moving in the same direction. Based on this information, everything in the tiny model is fine. In the small model, the validation metric is starting to stagnate, and the training metric is still improving. Based on this information, in the small model, I am likely close to overfitting. In the medium and large models, the validation metrics are going in the wrong direction. Because of this information, the medium and large models are clearly overfitting. Due to not overfitting and not being close to overfitting, the tiny model performed the best out of all the four models. Due to overfitting, the medium and large models performed the worst out of all the models. 
 
-To clarify, in deep learning, a model's "capacity" is the number of learnable parameters in a model. The tiny model did well and did not overfit, because its capacity is located in the balance between "too much capacity" and "not enough capacity." However, the medium and large models did worse, because they had too much capacity. If the network has limited memorization resources, it will have difficulty in learning the mapping of larger models. 
+To clarify, in deep learning, a model's "capacity" is the number of learnable parameters in a model. The tiny model did well and did not overfit, because its capacity is located in the balance between "too much capacity" and "not enough capacity." However, the medium and large models did worse, because they had too much capacity. If the network has limited memorization resources, it will have difficulty in learning the mapping between training samples and their targets of larger models. In addition, the medium and large models could have trained too long and learned patterns from the training data that don't generalize to the test data.
 
 ### Apply regularization, then add a drop out layer and finally combine both regularization with a dropout layer. Produce a plot that illustrates and compares all four models. Why in your estimation did certain models perform better?
 
@@ -23,7 +23,8 @@ Through these regularization techniques, the "Combined" regularization model is 
 ### What is an overfit model? Why is it important to address it? What are four different ways we have addressed an overfit model thus far?
 
 An overfit model is a model that performs very well on the training data and poorly on new data. In addition, it is a kind of model that has higher internal validity and lower external validity. Internal validity is how accurate a model's predictions are on the data it was trained on. External validity is how accurate a model's predictions are on data it was not trained on or how well it generalizes to new data.
-Also, an overfit model is a type of model that has a higher accuracy on the training data and a lower accuracy on the testing data. 
+Also, an overfit model is a type of model that has a higher accuracy on the training data and a lower accuracy on the testing data (or data that hasn't been seen before).
+An overfit model has to be addressed, because 
 
 The four different ways we have addressed an overfit model thus far involve getting more training data, reducing the capacity of the network, adding weight regularization, and adding dropout. 
 
