@@ -20,6 +20,10 @@ In this new plot, the tiny model did not overfit again. Due to its validation an
 To clarify, the "Combined" regularizatin used both L2 regularization and the drouput regularization technique. L2 regularization involves penalizing the weights parameters of the model without making them sparse. When applied to a layer, the dropout regularization technique involves randomly "dropping out" or setting to zero a number of output features of the layer during training.
 Through these regularization techniques, the "Combined" regularization model is able to become a simple model. For further clarification, simpler models have a higher chance of not overfitting than complex models. Additionally, a simple model is a model in which the distribution of parameter values has less entropy. 
 
+### What is an overfit model? Why is it important to address it? What are four different ways we have addressed an overfit model thus far?
+
+
+
 ### In this exercise you manually applied a 3x3 array as a filter to an image of two people ascending an outdoor staircase. Modify the existing filter and if needed the associated weight in order to apply your new filters to the image 3 times.
 
 ### Plot each result, upload them to your response, and describe how each filter transformed the existing image as it convolved through the original array and reduced the object size. 
