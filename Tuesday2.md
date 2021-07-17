@@ -8,7 +8,7 @@ The Higgs Dataset is used as a classification problem that focuses on distinguis
 
 ![img_43.png](img_43.png)
 
-In the tiny model, both the validation metric and the training metric are moving the same direction. Based on this information, everything in the tiny model is fine. In the small model, the validation metric is starting to stagnate, and the training metric is still improving. Based on this information, in the small model, I am likely close to overfitting. In the medium and large models, the validation metrics are going in the wrong direction. Because of this information, the medium and large models are clearly overfitting. Due to not overfitting and not being close to overfitting, the tiny model performed the best out of all the four models. Due to overfitting, the medium and large models performed the worst out of all the models. 
+In the tiny model, both the validation metric and the training metric are moving in the same direction. Based on this information, everything in the tiny model is fine. In the small model, the validation metric is starting to stagnate, and the training metric is still improving. Based on this information, in the small model, I am likely close to overfitting. In the medium and large models, the validation metrics are going in the wrong direction. Because of this information, the medium and large models are clearly overfitting. Due to not overfitting and not being close to overfitting, the tiny model performed the best out of all the four models. Due to overfitting, the medium and large models performed the worst out of all the models. 
 
 To clarify, in deep learning, a model's "capacity" is the number of learnable parameters in a model. The tiny model did well and did not overfit, because its capacity is located in the balance between "too much capacity" and "not enough capacity." However, the medium and large models did worse, because they had too much capacity. If the network has limited memorization resources, it will have difficulty in learning the mapping of larger models. 
 
@@ -16,7 +16,9 @@ To clarify, in deep learning, a model's "capacity" is the number of learnable pa
 
 ![img_45.png](img_45.png)
 
-
+In this new plot, the tiny model did not overfit again. Due to its validation and training metrics moving in the same direction, the model with the "Combined" regularization also did not overfit and did well.
+To clarify, the "Combined" regularizatin used both L2 regularization and the drouput regularization technique. L2 regularization involves penalizing the weights parameters of the model without making them sparse. When applied to a layer, the dropout regularization technique involves randomly "dropping out" or setting to zero a number of output features of the layer during training.
+Through these regularization techniques, the "Combined" regularization model is able to become a simple model. For further clarification, simpler models have a higher chance of not overfitting than complex models. Additionally, a simple model is a model in which the distribution of parameter values has less entropy. 
 
 ### In this exercise you manually applied a 3x3 array as a filter to an image of two people ascending an outdoor staircase. Modify the existing filter and if needed the associated weight in order to apply your new filters to the image 3 times.
 
