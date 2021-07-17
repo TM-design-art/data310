@@ -37,9 +37,10 @@ and the weight = 1.
 ![img_41.png](img_41.png)
 
 By applying this 2x2 filter from the example exercise, I have maintained the extracted features while reducing the image to 1/4 the size of the original image. 
-These extracted features 
+These extracted features include a strong set of vertical lines and a weaker set of horizontal lines. 
 Therefore, I am both reducing the overall amount of information in the image and maintaining the detected features. 
 When using the 2x2 pooling filter provided in the example exercise, we are using max pooling. Max pooling involves iterating over an image, looking at a pixel and its immediate neighbors, taking the largest of them, and loading this largest into the new image. 
+Overall, this method would be useful, because pooling reducing image size and maintaining features of images will allow code using these images to be more efficient. The code will be more efficient due to data from the images now being classified based on features rather than raw pixels. 
 
 #### Finally, review the following images from class and then convolve the 3x3 filter over the 9x9 matrix and provide the resulting matrix.
 
