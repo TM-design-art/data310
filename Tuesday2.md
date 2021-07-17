@@ -6,7 +6,7 @@ The Higgs Dataset is used as a classification problem that focuses on distinguis
 
 ### How did each of the four models perform (tiny, small, medium and large)? Which of the four models performed the best? Which ones performed the worst? Why in your estimation did certain models perform better? Produce a plot that illustrates and compares all four models.
 
-
+![img_43.png](img_43.png)
 
 
 ### In this exercise you manually applied a 3x3 array as a filter to an image of two people ascending an outdoor staircase. Modify the existing filter and if needed the associated weight in order to apply your new filters to the image 3 times.
