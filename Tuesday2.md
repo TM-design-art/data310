@@ -1,3 +1,14 @@
+## Using the script you produced with the Higgs Dataset answer the following questions.
+
+### Describe the dataset. What type of variable is the target? How many features are being used? How many observations are in the training dataset? How many are used in the validation set?
+
+The Higgs Dataset is used as a classification problem that focuses on distinguishing between a signal process that produces Higgs bosons and a background process that does not. The data for the Higgs Dataset has been produced from Monte Carlo simulations. The dataset contains 11,000,000 examples. The target class is binary. In addition, it is a categorical type of variable. There are 28 features being used. In addition, the first 1,000 observations are used in the validation set. The next 10,000 observations are used in the training dataset. 
+
+### How did each of the four models perform (tiny, small, medium and large)? Which of the four models performed the best? Which ones performed the worst? Why in your estimation did certain models perform better? Produce a plot that illustrates and compares all four models.
+
+
+
+
 ### In this exercise you manually applied a 3x3 array as a filter to an image of two people ascending an outdoor staircase. Modify the existing filter and if needed the associated weight in order to apply your new filters to the image 3 times.
 
 ### Plot each result, upload them to your response, and describe how each filter transformed the existing image as it convolved through the original array and reduced the object size. 
