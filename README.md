@@ -15,6 +15,8 @@
 
 -[Mondays Response](Monday1.md)
 
+-[Team Member Ethan's Monday Response](https://eanelson01.github.io/DATA310/mod2/monday2.html)
+
 -[Tuesdays Response](Tuesday2.md)
 
 -[Thursdays Response](Thursday2.md)
