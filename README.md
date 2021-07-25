@@ -29,7 +29,7 @@
 
 -[Wednesdays Response](Wednesday3.md)
 
--[Thursdays Response]()
+-[Thursdays Response](Thursday3.md)
 
 ## Projects
 
