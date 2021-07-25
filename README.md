@@ -27,9 +27,15 @@
 
 -[Tuesdays  Response](Tuesday3.md)
 
--[Wednesdays Response](Wednesday3.md)
+-[My Wednesday Response](Wednesday3.md)
 
--[Thursdays Response](Thursday3.md)
+-[Team Member Tyler's Wednesday Response](https://tyeatts75.github.io/Data310/wed3.html)
+
+-[Team Member David's Wednesday Response](https://dj-olson.github.io/data310/weds3.html)
+
+-[My Thursday Response](Thursday3.md)
+
+-[Team Member Michael's Thursday Response](https://michaelcusacknelkin.github.io/DATA310/Informal%20Responses/Preprocessing.html)
 
 ## Projects
 
