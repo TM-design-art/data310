@@ -58,7 +58,7 @@ Confusion matrix, without normalization
 
 ![img_55.png](img_55.png)
 
-### Wealth Class 5
+### Wealth Class 5 (best)
 
 Training accuracy: 0.9636
 
