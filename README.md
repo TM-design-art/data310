@@ -37,6 +37,12 @@
 
 -[Team Member Michael's Thursday Response](https://michaelcusacknelkin.github.io/DATA310/Informal%20Responses/Preprocessing.html)
 
+-Module 4
+
+-[Wednesdays Response](Wednesday4.md)
+
+-[Thursdays Response]()
+
 ## Projects
 
 -[Project 1](Project1.md)
