@@ -10,23 +10,32 @@ Potable water is water that is fit or suitable for drinking. The benefits of dri
 
 -Continuous Features: 
 
-+ pH
++ pH (It is a measure used in determining the acid-base balance of water & indicating. The World Health Organization says that for most safe drinking water the pH values should range from 6.5 to 8.5. Generally, lower pH values are correlated with higher potential levels of corrosion.)
 
-+ Hardness
+
++ Hardness (It is the water's ability to precipitate soap and is usually a result of calcium and magnesium. Usually, the hardness for safe drinking water should not exceed 120 to 170 mg/L.)
   
-+ Solids
+
++ Solids ()
   
+
 + Chloramines
   
+
 + Sulfate
   
+
 + Conductivity
   
+
 + Organic Carbon
   
+
 + Trihalomethanes
   
+
 + Turbidity 
+
 
 -Discrete Target: Potability (specifies if water is safe for human use or not & uses values 0 and 1, 1 means that water sample is potable, 0 means that water sample is not potable)
 
