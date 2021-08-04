@@ -31,13 +31,13 @@ Potable water is water that is fit or suitable for drinking. The benefits of dri
 + Organic Carbon ()
   
 
-+ Trihalomethanes
++ Trihalomethanes 
   
 
 + Turbidity 
 
 
--Discrete Target: Potability (specifies if water is safe for human use or not & uses values 0 and 1, 1 means that water sample is potable, 0 means that water sample is not potable)
+-Discrete Target: Potability (This target specifies if water is safe for human use or not & uses values 0 and 1. 1 means that water sample is potable. 0 means that water sample is not potable)
 
 -Description of Dataset Size: 3276 rows / observations x 10 columns (9 features / variables + 1 target)
 
