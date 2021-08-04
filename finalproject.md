@@ -5,11 +5,27 @@ Potable water is water that is fit or suitable for drinking. The benefits of dri
 ## Description of Data
 -Source of Data: Kaggle --> [here](https://www.kaggle.com/adityakadiwal/water-potability)
 
+-Continuous Features: 
 
++ pH
 
--Continuous Features: pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, Turbidity 
++ Hardness
+  
++ Solids
+  
++ Chloramines
+  
++ Sulfate
+  
++ Conductivity
+  
++ Organic Carbon
+  
++ Trihalomethanes
+  
++ Turbidity 
 
--Discrete Target: Potability (0 or 1)
+-Discrete Target: Potability (specifies if water is safe for human use or not & uses values 0 and 1, 1 means that water sample is potable, 0 means that water sample is not potable)
 
 -Description of Dataset Size: 3276 rows / observations x 10 columns (9 features / variables + 1 target)
 
