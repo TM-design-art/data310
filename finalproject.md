@@ -43,7 +43,7 @@ Potable water is water that is fit or suitable for drinking. The benefits of dri
 
 -(After using dropna method to remove null values from the dataset) Description of Dataset Size: 2011 rows / observations x 10 columns (9 features / variables + 1 target)
 
--Size: 
+-Size of Dataset: 337 KB
 
 -Source: The data was collected from 3276 different water bodies.
 
