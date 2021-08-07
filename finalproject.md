@@ -49,4 +49,6 @@ Potable water is water that is fit or suitable for drinking. The benefits of dri
 
 + However, potable ranges in the dataset differ some from the general safety measures of potable water. For potable water of this dataset, pH values range from 0.2275 - 11.8981. Hardness values range from 73.4922 to 317.3381 mg/L. Values of Total dissolved solids range 1198.9437 to 56488.6724 ppm. Values of Chloramines range from 1.3903 to 13.127 ppm. Sulfate values range from 129 to 481.0306 mg/L. Conductivity values range from 201.6197 to 695.3695 μS/cm. Organic Carbon values range from 2.2 to 23.6043 ppm. Trihalomethanes values range from 8.577 to 124 μg/L. Turbidity valeus range from 1.45 to 6.4947 NTU.   
 
-+ The potable ranges for pH
++ Due to the dataset's potable range for pH values, there are only 427 observations out of 811 potable observations from the dataset that are in the actual potable range of pH values, 6.5 to 8.5. For Hardness, there are only 180 observations out of the dataset's 811 potable observations that do not exceed the recommended 170 mg/L for safe drinking water. 
+
++ For Solids, there are no observations from the dataset's potable 
