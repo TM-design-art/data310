@@ -51,6 +51,7 @@ My selected topic is potable water. I plan to use features like pH, capacity of 
 + All of the dataset's potable observations have organic carbon values that are under or equal to the recommended 25 ppm of organic carbon. For Sulfate, all observations from the dataset's 811 potable observations are below or equal to the max recommended 500 mg/L of sulfate. All of dataset's potable observations follow the recommended rule of not going beyond 80000 μg/L for trihalomethanes values. 
 + For Solids, there are no observations from the dataset's 811 potable observations that are under or equal to the recommended 1000 ppm of TDS. 
 + All the features involve float64 Dtype. The potability target has a Dtype of int64.
+
 -Source: The data was collected from 3276 different water bodies. I think that these different water bodies are pre-treatment water bodies, because not all the water samples follow the recommended treatment rules for safe drinking water for the values of pH, Hardness, Solids, Chloramines, Conductivity, Turbidity.
   
 # Model 
