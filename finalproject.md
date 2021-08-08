@@ -78,3 +78,7 @@ Although my models were not able to reach a testing accuracy of 90%, I have foun
 
 [Guide for Speech](https://docs.google.com/document/d/1QHaTbl7dvSs9t_NTlBphNYRUTOVLfjLVte6zN93ArZU/edit?usp=sharing)
 
+# Videos
+[Take 1](https://drive.google.com/file/d/1Yof2K40EPp7IzaQA-O80BBpgBq9Yw0i5/view?usp=sharing)
+
+Take 2 (better take) --> [Take 2](https://drive.google.com/file/d/1u7g_-xyaQa3SEPD39tbBeVZsEruDJFbR/view?usp=sharing)
