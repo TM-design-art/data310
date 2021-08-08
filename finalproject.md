@@ -81,4 +81,4 @@ Although my models were not able to reach a testing accuracy of 90%, I have foun
 # Videos
 [Take 1](https://drive.google.com/file/d/1Yof2K40EPp7IzaQA-O80BBpgBq9Yw0i5/view?usp=sharing)
 
-Take 2 (better take) --> [Take 2](https://drive.google.com/file/d/1u7g_-xyaQa3SEPD39tbBeVZsEruDJFbR/view?usp=sharing)
+Take 2 (preferred & better take) --> [Take 2](https://drive.google.com/file/d/1u7g_-xyaQa3SEPD39tbBeVZsEruDJFbR/view?usp=sharing)
