@@ -54,6 +54,6 @@ Potable water is water that is fit or suitable for drinking. The benefits of dri
 -Source: The data was collected from 3276 different water bodies. I think that these different water bodies are pre-treatment water bodies, because not all the water samples follow the recommended treatment rules for safe drinking water for the values of pH, Hardness, Solids, Chloramines, Conductivity, Turbidity.
   
 # Model 
-
+![img_68.png](img_68.png)
 # Conclusion
 
